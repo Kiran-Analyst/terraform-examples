@@ -1,5 +1,3 @@
-
-
 resource "google_compute_network" "vpc_network" {
   name = "terraform-network-2"
   description = "Test second Terraform network"
