@@ -3,3 +3,5 @@
 **/.terraform/
 **terraform.*
 plan.txt
+gcp_cred.json
+**/gcp_cred.json
